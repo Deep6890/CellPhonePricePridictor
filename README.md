@@ -24,3 +24,12 @@ This project predicts mobile phone prices based on hardware specifications using
 - Jupyter Notebook
 
 ## Project Structure
+cellPhonePricePrediction/
+│
+├─ data/ # Dataset and JSON variables
+│ 
+├─ notebooks/
+│ └─ linearModel.ipynb.ipynb 
+│
+├─ requirements.txt # Dependencies
+└─ .gitignore
